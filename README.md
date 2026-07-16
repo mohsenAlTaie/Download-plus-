@@ -1,7 +1,7 @@
 # 🚀 Download Plus 📥
 
 <p align="center">
-  <img src="https://g.top4top.io/p_3849b71uf0.jpg" width="220"/>
+  <img src="https://h.top4top.io/p_3849n7ng60.jpg" width="220"/>
 </p>
 
 <h1 align="center">Download Plus 📥</h1>
