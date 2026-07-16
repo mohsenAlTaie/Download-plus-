@@ -1,4 +1,4 @@
-# 🚀 Download Plus
+# 🚀 Download Plus 📥
 
 <p align="center">
   <img src="https://g.top4top.io/p_3849b71uf0.jpg" width="220"/>
@@ -13,37 +13,6 @@
 <p align="center">
   Fast ⚡ | Easy 🔥 | High Quality 🎬 | Modern Design ✨
 </p>
-
-
-## 👨‍💻 Developer
-
-<p align="center">
-  <img src="YOUR_CHANNEL_IMAGE_LINK" width="180" style="border-radius:50%;"/>
-</p>
-
-<h2 align="center">Mohsen Al-Taie 🚀</h2>
-
-<p align="center">
-  Developer | Content Creator | Tech & Gaming Enthusiast 🎮
-</p>
-
-<p align="center">
-  Creating apps, sharing technology, and building creative projects.
-</p>
-
-
-## 🌐 My Social Media
-
-<p align="center">
-
-<a href="https://youtube.com/@m7jn">
-  <img src="https://img.shields.io/badge/YouTube-Mohsen%20Al--Taie-red?style=for-the-badge&logo=youtube"/>
-</a>
-
-</p>
-
-📺 YouTube Channel:  
-https://youtube.com/@m7jn
 
 
 ## 📱 About The App
@@ -77,15 +46,65 @@ More platforms coming soon 🚀
 
 ## 📦 Version
 
-Current Release:
-
-`v1.0`
+Current Release: **v1.0**
 
 
 ---
 
-## ❤️ Credits
+# 👨‍💻 Developer Information
 
-Made with ❤️ by **Mohsen Al-Taie**
+<p align="center">
+  <img src="https://github.com/identicons/mohsenAITaie.png" width="120"/>
+</p>
 
-⭐ If you like this project, don't forget to give it a star!
+<h2 align="center">Mohsen Al-Taie</h2>
+
+<p align="center">
+  Android Developer 📱 | Content Creator 🎮 | Technology Enthusiast 🚀
+</p>
+
+
+## 🌐 My Social Media
+
+<p align="center">
+
+<a href="https://youtube.com/@m7jn">
+<img src="https://img.shields.io/badge/YouTube-Mohsen%20Al--Taie-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://www.instagram.com/z0_28">
+<img src="https://img.shields.io/badge/Instagram-z0__28-purple?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.facebook.com/share/18r25w64xu/">
+<img src="https://img.shields.io/badge/Facebook-Mohsen%20Al--Taie-blue?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://t.me/K0_MG">
+<img src="https://img.shields.io/badge/Telegram-K0__MG-blue?style=for-the-badge&logo=telegram"/>
+</a>
+
+</p>
+
+
+## 📺 YouTube Channel
+
+🎬 Subscribe for gaming, technology, and project content:
+
+➡️ https://youtube.com/@m7jn
+
+
+## ❤️ Support
+
+If you like this project:
+
+⭐ Give it a Star on GitHub  
+📢 Share it with others  
+🚀 Follow my social media accounts  
+
+
+---
+
+<p align="center">
+Made with ❤️ by <b>Mohsen Al-Taie</b>
+</p>
